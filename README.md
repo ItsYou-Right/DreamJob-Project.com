@@ -1,6 +1,6 @@
 # DreamJob-Project.com
-:D
 (FINISHED):
+
 Software engineering is the knowledge of software computation and virtualization. 
 
 It is the skill that would enable one to design, invent, construct, detect, and create computer systems and applications that would either serve their purpose or solve real-life problems.
